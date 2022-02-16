@@ -7,9 +7,7 @@ Another reason that should be explored is that those who remain unvaccinated hav
 
 #
 #Data Analysis Code (R)
-
-
-setwd("/Users/kategagnon/documents/Statistics Lab") 
+ 
 options(scipen=999)
 
 #Packages:
@@ -31,7 +29,7 @@ library(haven)
 
 #DV:GETVAC 
 
-#IVs w Definite correlation:EEDUC, KINDWORK, ANXIOUS, INCOME,
+#IVs w Definite correlation: EEDUC, KINDWORK, ANXIOUS, INCOME,
 #IVs that would be interesting: RRACE, SEXUAL_ORIENTATION, 
 #Confounding IV (decreases # of vaxxed ): HADCOVID, ACTIVITY2
  
